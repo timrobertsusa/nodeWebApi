@@ -1,0 +1,4 @@
+********************************************************************************
+Date/Time: 8/24/2020
+Exception Info: {"status":500,"statusText":"Internal Server Error","message":"ENOENT: no such file or directory, open 'D:\\LearnJsonAPIServer\\ApiClientAndServer\\webAPI\\assets\\opps.json'","error":{"errno":-4058,"call":"open","code":"INTERNAL_SERVER_ERROR","message":"ENOENT: no such file or directory, open 'D:\\LearnJsonAPIServer\\ApiClientAndServer\\webAPI\\assets\\opps.json'"},"requestInfo":{"hostname":"localhost","path":"/api/v1/1007"}}
+********************************************************************************

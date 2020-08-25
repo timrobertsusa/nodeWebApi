@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1001,
+    "name": "Apple",
+    "OppValue": 21500.00,
+    "Contact": "Andy",
+    "email": "andy@apple.com",
+    "imageUrl": "images/apple.jpg"
+  },
+  {
+    "id": 1002,
+    "name": "Pluralpoint",
+    "OppValue": 2500.00,
+    "Contact": "Tim",
+    "email": "tim@pluralpoint.com",
+    "imageUrl": "images/pluralpoint.jpg"
+  },
+  {
+    "id": 1003,
+    "name": "CRL",
+    "OppValue": 20000.00,
+    "Contact": "Ian",
+    "email": "ina@crl.com",
+    "imageUrl": "images/crl.jpg"
+  },
+  {
+    "id": 1004,
+    "name": "Apple",
+    "OppValue": 15000.00,
+    "Contact": "Jim",
+    "email": "jim@apple.com",
+    "imageUrl": "images/apple.jpg"
+  },
+  {
+    "id": 1005,
+    "name": "Microsoft",
+    "OppValue": 25000.00,
+    "Contact": "Andy",
+    "email": "andy@microsoft.com",
+    "imageUrl": "images/microsoft.jpg"
+  },
+  {
+    "id": 1006,
+    "name": "Google",
+    "OppValue": 4500.00,
+    "Contact": "Mike",
+    "email": "mike@gmail.com",
+    "imageUrl": "images/google.jpg"
+  }
+]
